@@ -48,7 +48,7 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](../ex02-1.png)
+![Alt text](./ex02-1.png)
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -84,7 +84,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## output
 
-![Alt text](../ex02-3.png)
+![Alt text](./ex02-3.png)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -136,7 +136,7 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](../ex02-2.png)
+![Alt text](./ex02-2.png)
 
 
 # RESULT:
